@@ -14,12 +14,12 @@
 - [Local Machine](#Deploy-Locally)
 
 
-
+IMPORTANT : https://replit.com/@dextro593/ExcellentInternalTruetype#main.py
 ## Deploy to Heroku
 Get the [Necessary Variables](#Necessary-Variables) and then click the button below!  
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2Fdextrosan%2FKato-Crew-BOT-USER&template=https%3A%2F%2Fgithub.com%2Fdextrosan%2FKato-Crew-BOT-USER)
-IMPORTANT : https://replit.com/@dextro593/ExcellentInternalTruetype#main.py
+
 
 
 ### Local Deploy - Easy Method
