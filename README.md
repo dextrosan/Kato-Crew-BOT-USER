@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="<a href="http://assets.stickpng.com/images/5a65c19401d15068bdfe8771.png"><img src="http://assets.stickpng.com/images/5a65c19401d15068bdfe8771.png" alt="2" border="0"></a>" alt="KATO CREW">
+  </a>" alt="KATO CREW">
 </p>
 <h1 align="center">
   <b>Dextrov User Bot</b>
