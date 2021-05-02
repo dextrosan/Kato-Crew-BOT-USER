@@ -5,7 +5,7 @@
   <b>Dextrov User Bot</b>
 </h1>
 
-<b>A stable pluggable Telegram userbot + vc music bot, based on Telethon.</b>   
+<b>ESTE  BOT SE HA CREADO Y MODIFICADO CON LA FINALIDAD DE SER USADO CON FINES EDUCATIVOS , CUALQUIER MAL USO NO SERE RESPONSABLE DE DICHO MAL USO.</b>   
 
 ----
 
