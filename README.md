@@ -13,9 +13,6 @@
 - [Heroku](#Deploy-to-Heroku)
 - [Local Machine](#Deploy-Locally)
 
-# Tutorial
-- Tutorial to get Redis URL and password - [here.](./resources/extras/redistut.md)
----
 
 ## Deploy to Heroku
 Get the [Necessary Variables](#Necessary-Variables) and then click the button below!  
@@ -39,4 +36,4 @@ Get the [Necessary Variables](#Necessary-Variables) and then click the button be
 
 Made with 💕 by [@Dextrov](https://t.me/andraxteam). <br />
 # Credits
-* [![Team Kato Crew](https://img.shields.io/static/v1?label=Teamultroid&message=devs&color=critical)](https://t.me/Dextrov)
+* [![Team Kato Crew]()](https://t.me/Dextrov)
