@@ -1,5 +1,5 @@
 <p align="center">
-  </a>" "KATO CREW">
+  </a> "KATO CREW"
 </p>
 <h1 align="center">
   <b>Dextrov User Bot</b>
