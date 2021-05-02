@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="<a href="https://ibb.co/L1PBKMB"><img src="https://i.ibb.co/6FZGQ2G/2.jpg" alt="2" border="0"></a>" alt="TeamUltroid Logo">
+  <img src="<a href="https://data.whicdn.com/images/312293026/original.png"><img src="https://data.whicdn.com/images/312293026/original.png" alt="2" border="0"></a>" alt="KATO CREW">
 </p>
 <h1 align="center">
   <b>Dextrov User Bot</b>
