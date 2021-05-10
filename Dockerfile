@@ -1,6 +1,4 @@
-
-
-FROM adnraxteam/dextro:0.0.3
+FROM ultroidteam/ultroid:0.0.3
 #RUN wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb && \
 #    dpkg -i ./google-chrome-stable_current_amd64.deb; apt -fqqy install && \
 #    rm ./google-chrome-stable_current_amd64.deb
@@ -11,8 +9,9 @@ RUN curl --silent --location https://deb.nodesource.com/setup_15.x | bash -
 RUN apt-get install -y nodejs
 RUN git clone https://github.com/dextrosan/Kato-Crew-BOT-USER
 RUN git clone https://github.com/1Danish-00/glitch_me.git && pip install -e ./glitch_me
-WORKDIR /root/Andrax/
+WORKDIR /root/TeamUltroid/
 RUN pip install -r requirements.txt
 RUN rm -rf /usr/local/lib/python3.9/site-packages/.wh*
 RUN npm install -g npm@7.9.0 && npm install
 RUN npm run build
+
