@@ -8,7 +8,7 @@
 ## Deploy to Heroku
 Get the [Necessary Variables](#Necessary-Variables) and then click the button below!  
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/apps/dede2b/deploy/heroku-git)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://git.heroku.com/botsito-dex.git)
 
 
 
